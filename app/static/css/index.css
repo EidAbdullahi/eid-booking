@@ -1,0 +1,67 @@
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+
+
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    height: 80px;
+  }
+  
+div.search-input{
+  border :1px solid #C4C4C4 ;
+  border-radius :1.25rem;
+  height:2.25rem ;
+  margin :0 1rem ;
+}
+div.search-input > i{
+  padding-top :0.5725rem;
+  text-align :center ;
+  width :13%;
+}
+div.search-input .input-field{
+  border :0;
+  height :90%;
+  width :80%;
+}
+div.search-input .input-field:focus{
+  border :0;
+  outline :none ;
+}

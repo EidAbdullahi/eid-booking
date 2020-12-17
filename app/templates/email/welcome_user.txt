@@ -1,0 +1,4 @@
+Hello {{user.username}}
+Hassle-free bus booking from anywhere & anytime Wide choice of bus seats, bus types & operators.
+Great offers and cashbacks on booking tickets Unique benefit
+for women seat selection 24/7 Friendly Customer Care assistance
